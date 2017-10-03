@@ -1,0 +1,7 @@
+#Mon Oct 02 22:39:41 EDT 2017
+base.0=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5910b04b7445f5841093f193a18b0e68f50ab556
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27c17240127af72c5df7045a1d133c9263e85914\\classes.dex
+base.1=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27c17240127af72c5df7045a1d133c9263e85914
+file.0=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5910b04b7445f5841093f193a18b0e68f50ab556\\classes.dex

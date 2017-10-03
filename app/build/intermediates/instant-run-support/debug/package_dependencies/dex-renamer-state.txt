@@ -1,0 +1,13 @@
+#Sun Sep 24 16:56:58 EDT 2017
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes4.dex
+renamed.0=classes3.dex
+base.3=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9ecc5a172139f601dbbfd27fb3d79b117d871755
+base.2=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3594c5d52693b36a725522a90dc0de984556f3d1
+base.1=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_c365c7d7d41035e30fdf406f171711b208129d4f
+base.0=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_1d035aa27aab5a5f0adcac3d239176e2ef150664
+file.3=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9ecc5a172139f601dbbfd27fb3d79b117d871755\\classes.dex
+file.2=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3594c5d52693b36a725522a90dc0de984556f3d1\\classes.dex
+file.1=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_c365c7d7d41035e30fdf406f171711b208129d4f\\classes.dex
+file.0=G\:\\MIhir\\Calculator-develop1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_1d035aa27aab5a5f0adcac3d239176e2ef150664\\classes.dex

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mihir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="G:\MIhir\Calculator-develop1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_c365c7d7d41035e30fdf406f171711b208129d4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MIhir\Calculator-develop1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\MIhir\Calculator-develop1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_27c17240127af72c5df7045a1d133c9263e85914\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MIhir\Calculator-develop1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86e0aa94c03c15c16a2269757022803297ac83f2">
+        <dex dex="G:\MIhir\Calculator-develop1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5910b04b7445f5841093f193a18b0e68f50ab556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mihir\.android\build-cache\f39d72aec6e4cd078acbf84ff510edb4bb28e5b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="G:\MIhir\Calculator-develop1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ecc5a172139f601dbbfd27fb3d79b117d871755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mihir\.android\build-cache\b39a3baac213e50486820ea761367d516c98e57b\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="G:\MIhir\Calculator-develop1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_1d035aa27aab5a5f0adcac3d239176e2ef150664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mihir\.android\build-cache\b39a3baac213e50486820ea761367d516c98e57b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="G:\MIhir\Calculator-develop1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3594c5d52693b36a725522a90dc0de984556f3d1\classes.dex" />
+    </item>
+
+</items>
